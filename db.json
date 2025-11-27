@@ -1,0 +1,23 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Royal Spice",
+      "menu": [
+        {"id":1,"item":"Paneer Butter Masala","price":180},
+        {"id":2,"item":"Veg Biryani","price":150},
+        {"id":3,"item":"Butter Naan","price":30}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ocean Taste",
+      "menu": [
+        {"id":4,"item":"Fish Fry","price":220},
+        {"id":5,"item":"Prawns Curry","price":260},
+        {"id":6,"item":"Crab Soup","price":150}
+      ]
+    }
+  ],
+  "orders": []
+}

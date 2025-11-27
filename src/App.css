@@ -1,0 +1,24 @@
+.navbar {
+  width: 100%;
+  background: #E1E8EB;
+  padding: 12px 20px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.logo {
+  margin: 0;
+}
+
+.restaurant-card,
+.menu-card,
+.order-card,
+.summary-box {
+  background: white;
+  padding: 15px;
+  margin-bottom: 18px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
